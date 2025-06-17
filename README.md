@@ -4,7 +4,7 @@ Website made with HTML, CSS, JS and Bootstrap
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Demo](https://harshi-portfolio.netlify.app/)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
